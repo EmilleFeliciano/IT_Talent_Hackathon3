@@ -8,6 +8,12 @@ Individual: Emille Feliciano de Santana
 Acessando o Sonarqube
 ![WhatsApp Image 2024-06-30 at 20 50 00](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/a10a2e8d-ebbd-4dab-9ac8-9ce6a2bd9cc9)
 ![logada](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/57374702-a7a5-4eb1-988f-d547c9a947cf)
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/d30737bd-bb86-4333-8a36-2cf84ea39c75)
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/73bc7745-493d-40de-9ba4-93af5179b552)
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/459750fa-ba9b-4a64-b507-e55f62e683e6)
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/8c66b74a-b3b3-4cbd-84d4-aaaa2d6d778a)
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/5c8a5955-818b-424b-bed3-4e54f20d985f)
+
 
 Criando o projeto
 ![criando_projeto](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/390ecb7a-7e40-4579-bd61-6423284e92ad)
