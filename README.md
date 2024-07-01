@@ -1,72 +1,35 @@
-# Getting Started with Create React App
+# IT_TALENT HACKATHON3
 
-![](.github/Print.png)
+Individual: Emille Feliciano de Santana
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Sonarqube
 
-In the project directory, you can run:
+Acessando o Sonarqube
+![WhatsApp Image 2024-06-30 at 20 50 00](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/a10a2e8d-ebbd-4dab-9ac8-9ce6a2bd9cc9)
+![logada](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/57374702-a7a5-4eb1-988f-d547c9a947cf)
 
-### `npm start`
+Criando o projeto
+![criando_projeto](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/390ecb7a-7e40-4579-bd61-6423284e92ad)
+![criando_projeto1](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/09ee722a-7eb9-4993-b42f-10530ab41492)
+![criando_projeto2](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/97d7fd18-4cf4-4076-b0f2-1b7ef9ab241f)
+![criando_projeto3](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/2b525d80-68ae-4b32-be68-4985dc4eb74e)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Gerando Token
+![criando_projeto4](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/669b0215-2e79-4ca2-852c-5049ad22a4b0)
+![criando_projeto5](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/70cf2bf6-87da-4b72-8a09-9ee3de625901)
+![criando_projeto6](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/64149f40-d1a4-40f4-8ce6-8549de13d603)
+![criando_projeto7](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/eb21539e-010a-4e54-81be-b546f2878e96)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bucket Criado
+![criando_bucket](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/d7d69e7a-1e98-4b7a-96b5-1255ef3d1f4d)
+![bucketS3](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/0de7b28a-9fff-4764-b70e-aaaf44680140)
 
-### `npm test`
+ID do S3
+![image](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/ac752480-4384-4a85-91fe-c571b4b09b60)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Acessando Link
+![link](https://github.com/EmilleFeliciano/IT_Talent_Hackathon3/assets/99232463/29146832-1b1a-49bb-a20e-60a829b59d91)
 
-### `npm run build`
+URL: https://hackathon-ittalent.s3.amazonaws.com/ittalent.html
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
